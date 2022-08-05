@@ -1,0 +1,2 @@
+This is my practice project from The Odin Project creating a landing page based on a provided design using HTML and CSS Flexbox knowledge.
+https://www.theodinproject.com/lessons/foundations-landing-page
